@@ -1,0 +1,12 @@
+{
+    "name": "simple-claude-chat",
+    "version": "1.0.0",
+    "description": "A simple Electron-based chat app for Claude",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "dependencies": {
+      "electron": "^13.0.0"
+    }
+  }
